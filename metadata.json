@@ -1,0 +1,5 @@
+{
+  "name": "IWO Portfolio Dashboard",
+  "description": "A visualization dashboard for Invasive Weed Optimization applied to stock portfolio selection, featuring performance tracking, weight evolution, and ecosystem analysis.",
+  "requestFramePermissions": []
+}
